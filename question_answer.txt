@@ -1,1 +1,1 @@
-question
+https://javaconceptoftheday.com/category/java-interview-questions/
